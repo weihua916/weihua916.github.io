@@ -1,0 +1,198 @@
+= Weihua Hu (胡 緯華)
+
+~~~
+{}{img_left}{self.jpg}{400px}{400px}{IMGLINKTARGET}
+~~~
+
+I am currently working at [https://www.perplexity.ai/ Perplexity AI] to build an AI answer engine.
+
+Previously, I worked at [https://kumo.ai/ Kumo AI] to productionize Graph Neural Networks (GNNs) on modern relational databases.
+I received a Ph.D. degree from the Department of Computer Science at Stanford, advised by Prof. [https://cs.stanford.edu/people/jure/ Jure Leskovec]. I built machine learning theory\/methods\/benchmarks for graph-structured data, aiming to improve diverse real-world applications, such as recommender systems, drug\/material discovery, and weather forecasting. I am excited about applying (graph) machine learning to solve interesting and important real-world problems. \n 
+
+I received a B.E. in Mathematical Engineering in 2016, and an M.S. in Computer Science in 2018, both from the University of Tokyo, where I worked with Prof. [http://www.ms.k.u-tokyo.ac.jp/sugi/index.html Masashi Sugiyama] on machine learning and Prof. [http://hirosuke.mydns.jp/ Hirosuke Yamamoto] on information theory.
+I also worked with Prof. [http://www.nactem.ac.uk/tsujii/home-tsujii/atlab.html Jun'ichi Tsujii] and Prof. [http://researchmap.jp/hideki_mima/ Hideki Mima] on natural language processing.
+
+\[[hu_cv.pdf CV (out-dated)]\] \[[https://scholar.google.co.jp/citations?user=wAFMjfkAAAAJ&hl=en Google Scholar]\]
+
+== Publications
+
+=== Preprint
+. *Weihua Hu*, Yiwen Yuan, Zecheng Zhang, Akihiro Nitta, Kaidi Cao, Vid Kocijan, Jure Leskovec, Matthias Fey. \n
+PyTorch Frame: A Modular Framework for Multi-Modal Tabular Learning. \n
+\[[https://arxiv.org/abs/2404.00776 arXiv]\] \[[https://github.com/pyg-team/pytorch-frame code]\]
+. *Weihua Hu*, Kaidi Cao, Kexin Huang, Edward W Huang, Karthik Subbian, Kenji Kawaguchi, Jure Leskovec. \n
+TuneUp: A Simple Improved Training Strategy for Graph Neural Networks. \n
+\[[https://arxiv.org/abs/2210.14843 arXiv]\]
+
+=== 2024
+. Matthias Fey\*, *Weihua Hu*\*, Kexin Huang\*, Jan Eric Lenssen\*, Rishabh Ranjan\*, Joshua Robinson\*, Rex Ying, Jiaxuan You, Jure Leskovec. \n
+Relational Deep Learning: Graph Representation Learning on Relational Databases. \n
+International Conference on Machine Learning (ICML), 2024. Position paper. \n
+\[[https://arxiv.org/abs/2312.04615 arXiv]\] \[[https://relbench.stanford.edu/ project page]\]
+
+=== 2023
+. Remi Lam\*, Alvaro Sanchez-Gonzalez\*, Matthew Willson\*, Peter Wirnsberger\*, Meire Fortunato\*, Alexander Pritzel\*, Suman Ravuri, Timo Ewalds, Ferran Alet, Zach Eaton-Rosen, *Weihua Hu*, Alexander Merose, Stephan Hoyer, George Holland, Jacklynn Stott, Oriol Vinyals, Shakir Mohamed, Peter Battaglia. \n
+Learning skillful medium-range global weather forecasting. \n
+*Science* \n
+\[[https://www.science.org/doi/10.1126/science.adi2336 paper]\] \[[https://deepmind.google/discover/blog/graphcast-ai-model-for-faster-and-more-accurate-global-weather-forecasting/ blog]\]
+\[[https://github.com/google-deepmind/graphcast code]\]
+. Shenyang Huang\*, Farimah Poursafaei\*, Jacob Danovitch, Matthias Fey, *Weihua Hu*, Emanuele Rossi, Jure Leskovec, Michael Bronstein, Guillaume Rabusseau, Reihaneh Rabbany. \n
+Temporal Graph Benchmark for Machine Learning on Temporal Graphs. \n
+Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2023. \n
+\[[https://arxiv.org/abs/2307.01026 arXiv]\] \[[https://tgb.complexdatalab.com/ project page]\] \[[https://github.com/shenyangHuang/TGB code]\] 
+
+
+=== 2022
+. *Weihua Hu* \n
+On the Predictive Power of Graph Neural Networks \n
+Ph.D. Thesis in Computer Science, Stanford University. \n
+*KDD Outstanding Doctoral Dissertation Award* \n
+\[[https://searchworks.stanford.edu/view/14423818 thesis]\]
+. *Weihua Hu*, Rajas Bansal, Kaidi Cao, Nikhil Rao, Karthik Subbian, Jure Leskovec. \n
+Learning Backward Compatible Embeddings. \n
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), Applied Data Science Track, 2022. \n
+\[[https://arxiv.org/abs/2206.03040 arXiv]\] \[[https://github.com/snap-stanford/bc-emb code]\]
+. Shiori Sagawa\*, Pang Wei Koh\*, Tony Lee\*, Irena Gao\*, Sang Michael Xie, Kendrick Shen, Ananya Kumar, *Weihua Hu*, Michihiro Yasunaga, Henrik Marklund, Sara Beery, Etienne David, Ian Stavness, Wei Guo, Jure Leskovec, Kate Saenko, Tatsunori Hashimoto, Sergey Levine, Chelsea Finn, and Percy Liang. \n
+Extending the WILDS benchmark for unsupervised adaptation. \n
+International Conference on Learning Representations (ICLR), 2022. *(oral)*\n
+\[[https://arxiv.org/abs/2112.05090 arXiv]\] \[[https://github.com/p-lambda/wilds project page]\] \[[https://github.com/p-lambda/wilds code]\]
+
+
+=== 2021
+. *Weihua Hu*, Matthias Fey, Hongyu Ren, Maho Nakata, Yuxiao Dong, Jure Leskovec. \n
+OGB-LSC: A Large-Scale Challenge for Machine Learning on Graphs. \n 
+KDD Cup 2021. NeurIPS competition 2022. \n
+Neural Information Processing Systems (NeurIPS) Datasets and Benchmarks Track, 2021. \n
+\[[https://arxiv.org/abs/2103.09430 arXiv]\] \[[https://ogb.stanford.edu/docs/lsc/ project page]\] \[[https://ogb.stanford.edu/kddcup2021/ kddcup 2021]\] \[[https://ogb.stanford.edu/neurips2022/ neurips 2022]\] \[[https://github.com/snap-stanford/ogb code]\]
+. *Weihua Hu*, Muhammed Shuaibi, Abhishek Das, Siddharth Goyal, Anuroop Sriram, Jure Leskovec, Devi Parikh, C. Lawrence Zitnick. \n
+ForceNet: A Graph Neural Network for Large-Scale Quantum Calculations. \n 
+ICLR 2021 workshop at [https://simdl.github.io/ Deep Learning for Simulation]. *(Best paper award)* \n
+\[[https://arxiv.org/abs/2103.01436 arXiv]\] \[[https://github.com/Open-Catalyst-Project/ocp code]\] \[[https://slideslive.com/38955314/forcenet-a-graph-neural-network-for-largescale-quantum-calculations?ref=speaker-22639-latest talk]\]
+. Lowik Chanussot\*, Abhishek Das\*, Siddharth Goyal\*, Thibaut Lavril\*, Muhammed Shuaibi\*, Morgane Riviere, Kevin Tran, Javier Heras-Domingo, Caleb Ho, *Weihua Hu*, Aini Palizhati, Anuroop Sriram, Brandon Wood, Junwoong Yoon, Devi Parikh, C. Lawrence Zitnick, Zachary Ulissi. \n
+The Open Catalyst 2020 (OC20) Dataset and Community Challenges. \n
+ACS Catalysis, 2021. \n
+\[[https://arxiv.org/abs/2010.09990 arXiv]\] \[[https://opencatalystproject.org/ project page]\] \[[https://github.com/Open-Catalyst-Project/ocp code]\]
+. C. Lawrence Zitnick, Lowik Chanussot, Abhishek Das, Siddharth Goyal, Javier Heras-Domingo, Caleb Ho, *Weihua Hu*, Thibaut Lavril, Aini Palizhati, Morgane Riviere, Muhammed Shuaibi, Anuroop Sriram, Kevin Tran, Brandon Wood, Junwoong Yoon, Devi Parikh, Zachary Ulissi. \n
+An Introduction to Electrocatalyst Design using Machine Learning for Renewable Energy Storage. \n 
+\[[https://arxiv.org/abs/2010.09990 arXiv]\]
+. Pang Wei Koh\*, Shiori Sagawa\*, Henrik Marklund, Sang Michael Xie, Marvin Zhang, Akshay Balsubramani, *Weihua Hu*, Michihiro Yasunaga, Richard Lanas Phillips, Irena Gao, Tony Lee, Etienne David, Ian Stavness, Wei Guo, Berton A. Earnshaw, Imran S. Haque, Sara Beery, Jure Leskovec, Anshul Kundaje, Emma Pierson, Sergey Levine, Chelsea Finn, Percy Liang \n
+WILDS: A benchmark of in-the-wild distribution shifts. \n
+International Conference on Machine Learning (ICML), 2021. *(long talk)* \n
+\[[https://arxiv.org/abs/2012.07421 arXiv]\] \[[https://wilds.stanford.edu/ project page]\] \[[https://github.com/p-lambda/wilds code]\]
+
+
+=== 2020
+. *Weihua Hu*, Matthias Fey, Marinka Zitnik, Yuxiao Dong, Hongyu Ren, Bowen Liu, Michele Catasta, Jure Leskovec. \n
+Open Graph Benchmark: Datasets for Machine Learning on Graphs. \n
+Neural Information Processing Systems (NeurIPS), 2020. *(spotlight)* \n
+\[[https://arxiv.org/abs/2005.00687 arXiv]\] \[[https://ogb.stanford.edu/ project page]\] \[[https://github.com/snap-stanford/ogb code]\] \[[https://slideslive.com/38937788/open-graph-benchmark-datasets-for-machine-learning-on-graphs?ref=speaker-22639-latest talk]\]
+. *Weihua Hu*\*, Bowen Liu\*, Joseph Gomes, Marinka Zitnik, Percy Liang, Vijay Pande, Jure Leskovec. \n
+Strategies for Pre-training Graph Neural Networks. \n
+International Conference on Learning Representations (ICLR), 2020. *(spotlight)* \n
+NeurIPS 2019 workshop at [https://grlearning.github.io/ Graph Representation Learning]. *(oral)* \n
+\[[https://openreview.net/forum?id=HJlWWJSFDH OpenReview]\] \[[http://snap.stanford.edu/gnn-pretrain/ project page]\] \[[https://github.com/snap-stanford/pretrain-gnns/ code]\]
+. Hongyu Ren\*, *Weihua Hu*\*, Jure Leskovec. \n
+Query2box: Reasoning over Knowledge Graphs in Vector Space Using Box Embeddings. \n
+International Conference on Learning Representations (ICLR), 2020. \n
+\[[https://openreview.net/forum?id=BJgr4kSFDS OpenReview]\] \[[http://snap.stanford.edu/query2box/ project page]\] \[[https://github.com/hyren/query2box code]\]
+
+=== 2019
+. Keyulu Xu\*, *Weihua Hu*\*, Jure Leskovec, Stefanie Jegelka. \n
+How Powerful are Graph Neural Networks? \n
+International Conference on Learning Representations (ICLR), 2019. *(oral)* \n
+\[[https://openreview.net/forum?id=ryGs6iA5Km OpenReview]\] \[[https://arxiv.org/abs/1810.00826 arXiv]\] \[[https://github.com/weihua916/powerful-gnns code]\]
+. *Weihua Hu*, Takeru Miyato, Seiya Tokui, Eiichi Matsumoto, Masashi Sugiyama. \n
+Unsupervised Discrete Representation Learning. \n
+Explainable AI: Interpreting, Explaining and Visualizing Deep Learning. Springer, Cham, 2019. 97-119.\n
+(*Book chapter* contribution of our ICML 2017 work.)\n
+\[[https://link.springer.com/chapter/10.1007/978-3-030-28954-6_6 Chapter]\]
+
+=== 2018
+. *Weihua Hu*, Gang Niu, Issei Sato, Masashi Sugiyama. \n
+Does Distributionally Robust Supervised Learning Give Robust Classifiers? \n
+International Conference on Machine Learning (ICML), 2018. \n
+\[[http://arxiv.org/abs/1611.02041 arXiv]\]
+. Bo Han, Quanming Yao, Xingrui Yu, Gang Niu, Miao Xu, *Weihua Hu*, Ivor Tsang, Masashi Sugiyama. \n
+Co-teaching: Robust training of deep neural networks with noisy labels. \n
+Neural Information Processing Systems (NeurIPS), 2018. \n
+\[[http://arxiv.org/abs/1804.06872 arXiv]\]
+
+=== 2017
+. *Weihua Hu*, Takeru Miyato, Seiya Tokui, Eiichi Matsumoto, Masashi Sugiyama. \n
+Learning Discrete Representations via Information Maximizing Self Augmented Training. \n
+International Conference on Machine Learning (ICML), 2017. \n
+\[[http://arxiv.org/abs/1702.08720 arXiv]\]\[[https://github.com/weihua916/imsat code]\]\[[https://vimeo.com/238230059 talk]\]
+. *Weihua Hu*, Hirosuke Yamamoto, Junya Honda. \n
+Worst-case Redundancy of Optimal Binary AIFV Codes and their Extended Codes.\n
+IEEE Transactions on Information Theory, vol.63, no.8, pp.5074-5086, August 2017. \n
+\[[http://arxiv.org/abs/1607.07247 arXiv]\]
+. Takashi Ishida, Gang Niu, *Weihua Hu*, Masashi Sugiyama. \n
+Learning from Complementary Labels.\n
+Neural Information Processing Systems (NeurIPS), 2017. \n
+\[[http://arxiv.org/abs/1705.07541 arXiv]\]
+
+=== 2016
+. *Weihua Hu*, Hirosuke Yamamoto, Junya Honda. \n
+Tight Upper Bounds on the Redundancy of Optimal Binary AIFV Codes.\n
+IEEE International Symposium on Information Theory (ISIT), 2016.\n
+\[[papers/isit2016.pdf paper]\]\[[presentation/isit_huyamhon.pdf slide]\]
+. *Weihua Hu*, Jun'ichi Tsujii. \n
+A Latent Concept Topic Model for Robust Topic Inference Using Word Embeddings. \n
+The annual meeting of the Association for Computational Linguistics (ACL), 2016. \n
+\[[http://aclweb.org/anthology/P16-2062 paper]\]\[[presentation/acl_poster_final.pdf poster]\]\[[https://github.com/weihua916/LCTM code]\]
+
+== Workshop Organization
+- Lead organizer of the [https://ogb.stanford.edu/neurips2022/ Open Graph Benchmark Large-Scale Challenge] at the NeurIPS 2022.
+- Lead organizer of the [https://ogb.stanford.edu/kddcup2021/ Open Graph Benchmark Large-Scale Challenge] at the KDD Cup 2021.
+
+== Awards
+- [https://forbesjapan.com/feat/30under30/2023/honorees/ Forbes 30 under 30, Japan] (2023)
+- [https://kdd.org/kdd2023/awards/ KDD Outstanding Doctoral Dissertation Award] (2023)
+- [https://masason-foundation.org/ Masason Foundation Fellowship] (2019--)
+- [https://www.funaifoundation.jp/scholarship/scholarship_summary.html Funai Overseas Scholarship] (2018--)
+- Dean’s Award, Graduate School of Information Science and Technology, University of Tokyo (2018)
+- AIP network lab director award (2017)
+
+== Professional Services
+- Conference Reviewer (NerIPS 2019--2021, ICML 2020--2021, ICLR 2021--2022, KDD 2022--2023, AAAI 2024, ECML-PKDD 2020, ISIT 2020)
+- Workshop Reviewer ([https://grlplus.github.io/ GRL+ workshop] and [https://logicalreasoninggnn.github.io/ ILRGNN workshop] at ICML 2020)
+
+== Talk
+- December 18, 2023: Invited Talk@Tsinghua University, China
+- October 24, 2023: Invited Talk@Stanford Graph Learning Workshop, USA \[[https://www.youtube.com/watch?v=aLeDg7vl56A&t=6770s video]\]
+- August 8, 2023: Keynote at Ph.D. and Undergraduate Consortiums@KDD, USA
+- August 7, 2023: KDD Dissertation Award Talk@KDD, USA \[[https://www.youtube.com/watch?v=096YNYL-iOA video]\]
+- May 16, 2023: Link Prediction with Graph Neural Networks Webinar Talk@Kumo \[[https://info.kumo.ai/link-prediction-with-graph-neural-networks-in-production?utm_content=246695576&utm_medium=social&utm_source=twitter&hss_channel=tw-1573529592882614272 website]\]
+- December 21, 2022: Invited Talk@[https://trustmlresearch.github.io/index.html TrustML Young Scientist Seminars], Japan \[[https://www.youtube.com/watch?v=tGyeFAccytc video]\]
+- September 28, 2022: Invited Talk@[http://snap.stanford.edu/graphlearning-workshop-2022/ Stanford Graph Learning Workshop], USA \[[https://www.youtube.com/watch?v=x-64ZFBv_G0&list=PLqYw1C4YGfr0byz1XMD95YMDR-so4qy1e&index=16 video]\]
+- September 2, 2022: Invited Talk@Combridge University, UK
+- August 4, 2022: Invited Talk@[https://bhanml.github.io/group.html TMLR group] at HKBU, Hong Kong
+- June 2, 2022: Invited Talk@[https://2022.baai.ac.cn/schedule BAAI], China
+- March 3, 2022: Invited Talk@[https://grlmila.github.io/ MILA GRL Reading Group], Canada \[[https://drive.google.com/file/d/13RRZYzmnf-1Z1fvDk3-Sn2rhepAR0bYF/view video]\]
+- September 16, 2021: Invited Talk@Stanford Graph Learning Workshop, USA \[[https://www.youtube.com/watch?v=wDxwkuQwOWA video]\]
+- September 2, 2021: Invited Seminar Talk@RIKEN AIP Center, Japan \[[https://www.youtube.com/watch?v=pSXlkw-2Z08 video]\]
+- May 6, 2021: Invited Seminar Talk@Stanford CogAI lab, USA
+- Auguest 24, 2020: Invited Short Talk@KDD Deep Learning Day \[[https://www.youtube.com/watch?v=4F8qNjexZt0 video]\]
+- Auguest 5, 2020: Invited Seminar Talk@RIKEN AIP Center, Japan
+- June 24, 2020: Invited Seminar Talk@Twitter Machine Learning Group, UK
+- June 23, 2020: Invited Seminar Talk@4Paradigm, Hong Kong
+
+== Teaching
+- Spring 2023: Guest Lecture at [http://web.stanford.edu/class/cs224w/ CS224W] (Machine Learning with Graphs) at Stanford
+- Fall 2021: Teaching Assistant for [http://web.stanford.edu/class/cs224w/ CS224W] (Machine Learning with Graphs) at Stanford
+- Winter 2021: Teaching Assistant for [http://web.stanford.edu/class/cs224w/ CS224W] (Machine Learning with Graphs) at Stanford
+
+== Work Experiences
+- Software Engineer Intern at [https://kumo.ai/ Kumo.ai], Mountain View (2022.9--2022.12)
+- Research Intern at [https://www.deepmind.com/ DeepMind], London (2022.6--2022.9)
+- Research Intern at [https://ai.facebook.com/ Facebook Artificial Intelligence Research], Menlo Park (2020.6--2020.9)
+- Research Assistant at [http://www.riken.jp/research/labs/aip/ Center for Advanced Integrated Intelligence Research], RIKEN (2016.11--2018.8)
+- AIP Challenge (Research funding) "Reliable machine learning in the wild" (2016.10--2017.3)
+- Technical Staff at [http://www.airc.aist.go.jp/ Artificial Intelligence Research Center], AIST (2015.10--2016.10)
+- Internship at [https://www.preferred-networks.jp/en/ Preferred Networks] (2016.8--2016.9)
+- Part-time Engineer at [https://preferred.jp/ Preferred Infrastructure] (2015.11--2016.3)
+
+== Contact
+Email: weihuahu \[at\] cs.stanford.edu \n
+URL: [https://weihua916.github.io/] \n
+Github: [https://github.com/weihua916/]
