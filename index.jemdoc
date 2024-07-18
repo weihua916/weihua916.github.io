@@ -29,6 +29,9 @@ TuneUp: A Simple Improved Training Strategy for Graph Neural Networks. \n
 Relational Deep Learning: Graph Representation Learning on Relational Databases. \n
 International Conference on Machine Learning (ICML), 2024. Position paper. \n
 \[[https://arxiv.org/abs/2312.04615 arXiv]\] \[[https://relbench.stanford.edu/ project page]\]
+. Weihua Hu, Matthias Fey \n
+Hybrid Graph Neural Networks for Recommendation. \n
+\[[https://docs.kumo.ai/docs/hybrid-graph-neural-networks Kumo blog]\]
 
 === 2023
 . Remi Lam\*, Alvaro Sanchez-Gonzalez\*, Matthew Willson\*, Peter Wirnsberger\*, Meire Fortunato\*, Alexander Pritzel\*, Suman Ravuri, Timo Ewalds, Ferran Alet, Zach Eaton-Rosen, *Weihua Hu*, Alexander Merose, Stephan Hoyer, George Holland, Jacklynn Stott, Oriol Vinyals, Shakir Mohamed, Peter Battaglia. \n
